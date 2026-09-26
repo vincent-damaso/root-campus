@@ -42,3 +42,9 @@ next-env.d.ts
 
 # spec
 spec.md
+
+# agents
+/agents
+
+#build
+build.log
